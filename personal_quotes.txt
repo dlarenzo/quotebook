@@ -3,5 +3,9 @@ Strength through Struggle - Michael Choi
 It always seems impossible until its done - Nelson Mandela 
 
 Live long and prosper - Spock
+<<<<<<< HEAD
 
 I like green - LaRenzo DeGraffenreidt
+=======
+I love yellow - LaRenzo DeGraffenreidt
+>>>>>>> personal_color
